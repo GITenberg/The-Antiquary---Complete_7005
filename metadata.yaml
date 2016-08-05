@@ -1,0 +1,67 @@
+_repo: The-Antiquary---Complete_7005
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 7005/7005-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+- cover_type: archival
+  image_path: 7005/7005-h/images/bookcover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    - Cleishbotham, Jedediah
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: "The Antiquary (1816) is a novel by Sir Walter Scott about several characters\
+  \ including an antiquary: an amateur historian, archaeologist and collector of items\
+  \ of dubious antiquity. Although he is the eponymous character, he is not necessarily\
+  \ the hero, as many of the characters around him undergo far more significant journeys\
+  \ or change. Instead, he provides a central figure (and location) for other more\
+  \ exciting characters and events – on which he provides a sardonic commentary. The\
+  \ book is written in the third person so the narrative does not remain with the\
+  \ antiquary.\nThis is Scott's gothic novel, redolent with family secrets, stories\
+  \ of hidden treasure and hopeless love, with a mysterious, handsome, young man,\
+  \ benighted aristocracy and a night-time funeral procession to a ruined abbey. The\
+  \ romance and mystery is counterpoised by some of Scott's more down-to-earth characters,\
+  \ and grittily unromantic events.\nScott wrote in an advertisement to the novel\
+  \ that his purpose in writing it, similar to that of his novels Waverley and Guy\
+  \ Mannering, was to document Scottish life and manners of a certain period, in this\
+  \ case the last decade of the 18th century. Scott included a glossary of Scottish\
+  \ terms as an appendix to the novel.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7005'
+  wikidata: Q1157183
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Antiquarians -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Beggars -- Fiction'
+- !lcsh 'Scotland -- Fiction'
+- GITenberg
+title: The Antiquary — Complete
+url: http://www.gutenberg.org/ebooks/7005
+wikipedia:
+- https://fr.wikipedia.org/wiki/L%27Antiquaire
+- https://ar.wikipedia.org/wiki/%D8%AE%D8%A8%D9%8A%D8%B1_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A7%D8%AA
+- https://en.wikipedia.org/wiki/The_Antiquary
+- https://hy.wikipedia.org/wiki/%D4%B1%D5%B6%D5%BF%D5%AB%D5%AF%D5%BE%D5%A1%D6%80_(%D5%BE%D5%A5%D5%BA)
+- https://it.wikipedia.org/wiki/L%27antiquario
+- https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BA%D0%B2%D0%B0%D1%80_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://fr.wikisource.org/wiki/L%E2%80%99Antiquaire_(Scott,_trad._M%C3%A9nard)
